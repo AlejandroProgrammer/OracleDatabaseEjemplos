@@ -12,8 +12,10 @@ Incluye:
 - Funciones.
 - Funciones personalizadas.
 - Secuencias.
-
+- Imagenes de referencia de los códigos con las tablas.
 
 Software utilizado:
 
 - Oracle Database 11g Express Edition.
+
+Alejandro Mayró Lena.
