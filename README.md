@@ -12,7 +12,7 @@ Incluye:
 - Funciones.
 - Funciones personalizadas.
 - Secuencias.
-- Imagenes de referencia de los códigos con las tablas.
+- Imágenes de referencia de las tablas.
 
 Software utilizado:
 
