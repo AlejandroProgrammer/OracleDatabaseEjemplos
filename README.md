@@ -18,4 +18,4 @@ Software utilizado:
 
 - Oracle Database 11g Express Edition.
 
-Alejandro Mayró Lena.
+Alejandro Mayró L.
